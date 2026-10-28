@@ -1,10 +1,19 @@
-# Hi, I'm Albany! 👋
-👩🏽‍💻 Taking my first steps as a Backend Developer<br/><br>⚡ IT Systems Analyst<br/><br>🚀 Currently working on personal projects and learning new skills related to machine learning<br/>
+# Hi, I'm Albany 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![]
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=albanyPetit&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+Junior Software Engineer based in Berlin. I build backend systems, API integrations and LLM-powered automation.
 
+🔨 Building: a public, evaluated version of an LLM invoice-extraction pipeline (schema validation + human review queue)
+ 🎓 3-year university degree in software development
+  (Analista Programadora Universitaria, UNCo, 9.21/10)
+ 💼 software developer internship in a HealthCare insurance company
+ (REST/SOAP integrations, Sep 2024 – Feb 2025)
+ 🗣 Spanish (native), English (B2), German (pursuing B1)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Stack
+Java · Python · TypeScript · PostgreSQL · REST/SOAP · Git · Claude API
+
+## Projects
+- [Disposable camera event app](link): <one line>
+- Invoice pipeline with evaluation (coming soon)
+
+📫[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albany_Petit-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albany-petit-1a4900289)
